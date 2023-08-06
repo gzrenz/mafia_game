@@ -1,0 +1,1 @@
+__sasCookie({"_cookies_":[{"_value_":"ID=e0faea7a7567f512:T=1683720331:S=ALNI_MauXNUXVAidFqitKVtQX8iWPlR7fQ","_expires_":1717416331,"_path_":"/","_domain_":"wikihow.com","_version_":1},{"_value_":"UID=00000c04080e49c2:T=1683720331:RT=1683720331:S=ALNI_MYyBGgq5_ITRtNnaxfHeeYADULhYw","_expires_":1717416331,"_path_":"/","_domain_":"wikihow.com","_version_":2}]});
